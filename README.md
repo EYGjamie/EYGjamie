@@ -32,8 +32,8 @@ Our goal is to provide talented players with a platform — through structured t
 ## 📫 Contact
 
 - 📧 Email: j.rohner@entropygaming.de  
-- 💬 Discord: [[Entropy Discord]](https://discord.gg/entropygaming)  
-- 🌐 Website: [[Entropy Gaming]](https://entropygaming.de/)
+- 💬 Discord: [Entropy Discord](https://discord.gg/entropygaming)  
+- 🌐 Website: [Entropy Gaming](https://entropygaming.de/)
 
 
 
