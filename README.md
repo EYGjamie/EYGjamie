@@ -1,9 +1,7 @@
 # 👋 Hi, I'm Jamie!
 
-🚀 **Project Lead at Entropy Gaming**  
-🎮 **Lead Developer & Discord Administrator**  
-🤝 **Head of Team Recruitment**
-
+🎮 **Lead Developer & Discord Administrator at Entropy Gaming**  
+**Looking for new Projects as Developer**
 
 
 ## 🧠 About Me
@@ -24,9 +22,6 @@ Our goal is to provide talented players with a platform — through structured t
 
 - 👨‍💻 **Lead Developer**: Creating and maintaining internal web platforms, bots, and tools for Discord and team management  
 - 🛠️ **Discord Administrator**: Designing and managing our community structure  
-- 🧩 **Project Lead**: Organizing the overall project and driving its strategic growth  
-- 📣 **Head of Team Recruitment**: Finding and onboarding new players and teams for our organization
-
 
 
 ## 📫 Contact
@@ -34,8 +29,6 @@ Our goal is to provide talented players with a platform — through structured t
 - 📧 Email: j.rohner@entropygaming.de  
 - 💬 Discord: [Entropy Discord](https://discord.gg/entropygaming)  
 - 🌐 Website: [Entropy Gaming](https://entropygaming.de/)
-
-
 
 
 
