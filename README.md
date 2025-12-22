@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Jamie!
 
-🎮 **Lead Developer & Discord Administrator at Entropy Gaming**  
-**Looking for new Projects as Developer**
+🎮 **Lead Developer, Head of Content Creation & Discord Administrator at Entropy Gaming**  
+**Always looking for new Projects as Developer**
 
 
 ## 🧠 About Me
