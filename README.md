@@ -10,7 +10,7 @@ I'm a passionate developer, organizer, and community manager with a strong focus
 
 ## 📫 Contact
 
-- 📧 Email: jamie.dev@famrohner.de 
+- 📧 Email: jamie@rohner.dev
 
 
 > _"Gaming is more than just a hobby – it's teamwork, technology, and passion."_ 🎮
